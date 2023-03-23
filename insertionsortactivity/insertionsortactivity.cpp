@@ -48,6 +48,6 @@ void insertionsort()
 
 		j = i - 1;		// 3. setting nilai j sama dengan i-j; 
 
-		while (j >= 0 && arr[j] > temp)	// 4. looping while dimana nilai j lebih besar
+		while (j >= 0 && arr[j] > temp);	// 4. looping while dimana nilai j lebih besar
 	}
 }

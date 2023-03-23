@@ -83,5 +83,5 @@ void display()
 }
 int main()
 {
-	input();	// memanggil display
+	input();	// Memanggil Display
 }

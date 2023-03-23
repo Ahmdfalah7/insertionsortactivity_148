@@ -34,3 +34,16 @@ void input()
 
 	}
 }
+// Procedur Insertionsort
+void insertionsort()
+{
+
+
+	int temp;		// Membuat variable daya temporer atau penyimpanan sementara
+	int j;			// Membuat variable j sebagai tanda
+
+	for (int i = 1; i < n; i++)		// Membuat looping dengan i dimulai dari 1 hingga n-1
+	{
+		temo
+	}
+}

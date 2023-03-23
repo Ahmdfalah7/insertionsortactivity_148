@@ -44,6 +44,6 @@ void insertionsort()
 
 	for (int i = 1; i < n; i++)		// Membuat looping dengan i dimulai dari 1 hingga n-1
 	{
-		temo
+		temp = arr[i];		// 2. simpan nilai arr[i} ke variable sementara temp
 	}
 }
